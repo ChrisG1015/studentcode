@@ -1,0 +1,8 @@
+Utilize CSV file found in github 
+
+print out first 5 rows of 3 different columns
+print out last 5 rows of 3 different columns 
+
+google how to rename a column in python 
+
+find a csv file you'd like to work on next week (twitch gamer wins and losses csv file? maybe???)
