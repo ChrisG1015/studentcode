@@ -1,0 +1,2 @@
+# studentcode
+Basic python lessons
